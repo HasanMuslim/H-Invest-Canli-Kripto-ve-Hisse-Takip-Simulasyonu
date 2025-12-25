@@ -1,1 +1,1 @@
-# H-Invest---Canl-Kripto-ve-Hisse-Takip-Sim-lasyonu
+# H-Invest---Canli-Kripto-ve-Hisse-Takip-Simulasyonu
