@@ -52,9 +52,9 @@ Projenin çalıştırılabilir `.exe` veya `.jar` dosyasını indirdikten sonra:
 
 ## 📸 Ekran Görüntüleri
 
-![H-Invest.exe program Arayüzü](
+![H-Invest.exe program Arayüzü]()
 
 ---
 
-**Geliştirici:** [Hasan Recep MÜSLİM]
-**Ders:** Nesneye Yönelik Programlama
+**Geliştirici:** **Hasan Recep MÜSLİM**
+**Ders:** **Nesneye Yönelik Programlama**
